@@ -69,9 +69,6 @@ vercel
 - Personalized conversation history and insights.
 - More advanced emotion detection.
 
-### 📄 **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 ### 🎯 **Why Lumi AI?**
 Lumi AI isn’t just an AI chatbot—it’s a **late-night friend when you need someone to talk to**. Built with care, empathy, and an intuitive UI, it helps users feel heard and supported in their toughest moments. 💙
